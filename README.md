@@ -4,7 +4,7 @@ Puzzle: https://www.shadertoy.com/view/WcffDs
 
 ![](f6.png)
 
-Improved Version: https://www.shadertoy.com/view/3fffDs
+Modified Version: https://www.shadertoy.com/view/3fffDs
 
 ![](f7.png)
 
