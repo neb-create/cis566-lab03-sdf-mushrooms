@@ -1,13 +1,14 @@
-# Created by:
-
-Nico Kong #55480104
-
-# Shadertoy Links
+# Mushroom Lab Submission - Nico Kong
 
 Puzzle: https://www.shadertoy.com/view/WcffDs
+
+![](f6.png)
+
 Improved Version: https://www.shadertoy.com/view/3fffDs
 
-# Lab02: SDF Practice
+![](f7.png)
+
+# Assignment Description
 
 Let's practice using raymarching and SDFs! You may work with a partner or even two for this one.
 
